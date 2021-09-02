@@ -1,5 +1,5 @@
 # 所长导航
-# https://liutongxu.github.io/
+# https://luobbinbin.github.io/
 
 # 使用说明
 
@@ -10,8 +10,8 @@
 
 源码要感谢GitHub的webstack开源项目及一为导航，我是在它们的源码基础上本地静态化修改而来。
 
-# BY：刘桐序
+# BY：罗斌斌
 
-所长导航liutongxu.github.io
+所长导航luobbinbin.github.io/
 
 支持请给个Star
